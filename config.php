@@ -18,7 +18,7 @@ $CFG->dboptions = array (
   'dbcollation' => 'utf8mb4_0900_ai_ci',
 );
 
-$CFG->wwwroot   = 'http://app-748dc79c-8689-4d26-9a00-c122fba34ddb.cleverapps.io';
+$CFG->wwwroot   = 'https://app-748dc79c-8689-4d26-9a00-c122fba34ddb.cleverapps.io';
 $CFG->dataroot  = __DIR__ . '/moodledata';
 $CFG->admin     = 'ADMIN';
 
