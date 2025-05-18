@@ -19,7 +19,7 @@ $CFG->dboptions = array (
 );
 
 $CFG->wwwroot   = 'http://app-748dc79c-8689-4d26-9a00-c122fba34ddb.cleverapps.io/';
-$CFG->dataroot  = '/moodledata';';
+$CFG->dataroot  = '/moodledata';
 $CFG->admin     = 'ADMIN';
 
 $CFG->directorypermissions = 0777;
