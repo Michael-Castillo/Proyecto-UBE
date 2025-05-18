@@ -18,8 +18,8 @@ $CFG->dboptions = array (
   'dbcollation' => 'utf8mb4_0900_ai_ci',
 );
 
-$CFG->wwwroot   = 'http://app-748dc79c-8689-4d26-9a00-c122fba34ddb.cleverapps.io/';
-$CFG->dataroot  = '/moodledata';
+$CFG->wwwroot   = 'http://app-748dc79c-8689-4d26-9a00-c122fba34ddb.cleverapps.io';
+$CFG->dataroot  = '/moodledata:bucket-75b27880-0e8e-43b4-a960-db9346a5df51-fsbucket';
 $CFG->admin     = 'ADMIN';
 
 $CFG->directorypermissions = 0777;
